@@ -1,7 +1,7 @@
 {
   "name": "my-app-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend",
   "main": "server.js",
   "directories": {
     "test": "test"
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/raysmithdev/full-stack-app-client-api#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
     "express": "^4.16.2",
     "mongoose": "^4.13.2"
   },
